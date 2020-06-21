@@ -1,3 +1,8 @@
+.DS_Store
+__build__
+public
+.firebase
+
 # Logs
 logs
 *.log
